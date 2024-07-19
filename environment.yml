@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - python>=3.9
-  - bakta
+  - bakta>=1.9
   - mmseqs2
   - pandas
   - biopython
